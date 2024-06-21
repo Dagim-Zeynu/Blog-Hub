@@ -30,13 +30,17 @@ Blog Hub is a Django-based blogging platform that utilizes Bootstrap for fronten
    git clone https://github.com/Dagim-Zeynu/Blog-Hub.git
    cd blog-hub
 
-2. migrations:
+2. Migrations:
    ```bash
    python manage.py makemigrations
    python manage.py migrate
 3. Create admins:
    ```bash
    python manage.py createsuperuser
+
+4. Run the program
+   ```bash
+   python manage.py runserver
 
 
 ##  ------------------------- THANK YOU -------------------------
