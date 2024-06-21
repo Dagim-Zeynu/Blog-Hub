@@ -37,3 +37,6 @@ Blog Hub is a Django-based blogging platform that utilizes Bootstrap for fronten
 3. Create admins:
    ```bash
    python manage.py createsuperuser
+
+
+##                                                         THANK YOU
